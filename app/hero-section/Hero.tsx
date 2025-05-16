@@ -18,7 +18,7 @@ const Hero = () => {
       <div className="absolute top-10 flex justify-between sm:w-[90%] lg:max-w-[1440px]">
         <div>
           <Link
-            href="https://drive.google.com/file/d/1OygmWn0lzU8Udr3ovcv4dxenh9pHg1bJ/view?usp=sharing"
+            href="https://drive.google.com/file/d/1IHhjXl1PFwU-lqgbrUERMF5-6xMwfVl0/view?usp=sharing"
             target="_blank"
             aria-label="View Resume"
           >
